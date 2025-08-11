@@ -1,0 +1,60 @@
+
+span{
+    color:blueviolet;
+}
+
+img{
+    width: 440px;
+    height: 400px;
+}
+
+ul{
+    list-style-type:disc; 
+}
+button{
+    width: 100px;
+    height: 40px;
+    color: blueviolet;
+}
+
+body{
+    display: block;
+    margin: 40px;
+    padding-right: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2:nth-of-type(1){
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    background-color: rgb(150, 70, 146)
+}
+p{
+    background-color: rgb(91, 207, 56);
+}
+div{
+    background-color: rgb(8, 17, 48);
+}
+nav{
+    background-color: rgb(239, 255, 21);
+}
+section{
+    background-color: rgb(31, 63, 168);
+}
+footer{
+    background-color: rgb(212, 60, 33);
+}
+header{
+    background-color: rgb(1, 134, 243);
+}
+aside{
+    background-color: rgb(230, 11, 157);
+}
+main{
+    background-color: rgb(247, 160, 0);
+}
+a{
+    background-color: rgb(194, 185, 157);
+}
